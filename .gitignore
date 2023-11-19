@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+env/
+
+# Файлы с настройками IDE
+.idea/
+.vscode/
+
+# Кэш и временные файлы
+*.pyo
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Логи
+*.log
+
+# Компилированные расширения
+*.so
+
+# Файлы с зависимостями
+*.egg-info/
+dist/
+build/
+
+# Игнорирование конфигурационных файлов
+*.cfg
+*.ini
+*.conf
